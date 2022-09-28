@@ -9,9 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fluree/crypto-utils": "^1.10.0",
+    "@fluree/sjcl": "^1.0.8-3",
+    "axios": "^0.27.2",
+    "js-sha3": "^0.8.0",
     "next": "12.3.1",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "seedrandom": "^3.0.5",
+    "ws": "^8.9.0"
   },
   "devDependencies": {
     "@types/node": "18.7.23",
